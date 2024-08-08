@@ -9,7 +9,7 @@ English version:
 Want to play rock paper scissors?
 or even just watch it?
 You can play this!
-WARNING!!!: ENGLISH VERSION IS IN PRO
+WARNING!!!: ENGLISH VERSION IS IN PROGRESS!
 
 # Made from:
 ## Dibuat dari:
